@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+Another cool app built with Elixir 1.6
 
 ## Installation
 
